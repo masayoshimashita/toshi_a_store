@@ -4,7 +4,7 @@ depends:
   mikutter: 0.2.1.1119
   plugin:
     - mikustore
-version: '1.0'
+version: '1.1'
 author: toshi_a
 name: toshi_a's store
 description: toshi_aの書いたmikutterプラグインをみっくストアに追加するプラグイン
