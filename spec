@@ -1,11 +1,9 @@
 ---
-slug: :toshi_a_store
+slug: :masayoshi_main_store
 depends:
-  mikutter: 0.2.1.1119
-  plugin:
-    - mikustore
-version: '1.1'
-author: toshi_a
-name: toshi_a's store
-description: toshi_aの書いたmikutterプラグインをみっくストアに追加するプラグイン
-repository: git://github.com/toshia/toshi_a_store.git
+  mikutter: 0.2.2.1537
+  plugin: []
+version: '1.0'
+author: masayoshi_main
+name: masayoshi_main_store
+description: 使えないプラグインの墓場
